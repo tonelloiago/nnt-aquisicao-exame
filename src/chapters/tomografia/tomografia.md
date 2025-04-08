@@ -74,25 +74,56 @@ Ajuste os lasers de referência para que fiquem alinhados conforme mostrado na f
 - A **base da mandíbula** deve estar **paralela ao solo**.
 - O **plano sagital mediano** deve estar **perpendicular ao solo**.
 
+---
+
 ## 7. Testes de Scout
 
 A seguir, realize os testes de Scout. O Scout é uma imagem inicial usada para planejar a tomografia, garantindo o posicionamento correto do paciente.
 
-- Execute o teste de Scout Lateral, conforme mostrado na imagem abaixo:
+Execute o teste de Scout Lateral, conforme mostrado na imagem abaixo:
 ![Scout](../../assets/tomografia/scout_lateral.png)
 
 Em seguida, clique em Próximo para realizar o Scout Póster-Anterior:
 ![Scout](../../assets/tomografia/scout_lateral.png)
 
-- Caso necessite alterar o contraste par melhorar a visualização, mova os indicadores destacados na figura abaixo:
+  Caso necessite alterar o contraste par melhorar a visualização, mova os indicadores destacados na figura abaixo:
 ![Scout](../../assets/tomografia/contraste.png)
 
 
 Se tudo estiver correto, prossiga para realização do exame, clicando em Iniciar.
 
+---
+
 ## 8. Exame
 
-Pressione o botão Iniciar e realize o procedimento padrão para aquisição do exame:
+Pressione o botão **Iniciar** e realize o procedimento padrão para aquisição do exame.
 
-![Scout](../../assets/tomografia/iniciar.png)
+![Iniciar exame](../../assets/tomografia/iniciar.png)
 
+
+Após a aquisição, verifique se o exame foi realizado corretamente.  
+Se estiver tudo certo, prossiga para a etapa de exportação.
+
+---
+
+## 9. Exportação da Tomografia
+
+1. No menu superior, clique em **Arquivo**.
+2. No menu lateral, selecione:  
+   **Gravação disco (CD/DVD) → Gravar disco c/ visualizador**.
+
+   ![Salvar exame](../../assets/tomografia/salvar.png)
+
+3. Na janela que será aberta:
+   - Selecione o paciente na janela branca.
+   - Clique em **Guardar arquivos**.
+
+   ![Guardar arquivos](../../assets/tomografia/guarda_arquivo.png)
+
+4. Em seguida, será aberta uma nova janela:
+   - Selecione **Desktop (Área de Trabalho)**.
+   - Clique em **OK**.
+
+   ![Selecionar Desktop](../../assets/tomografia/desktop.png)
+
+5. Por fim, vá até a Área de Trabalho do computador e **arraste o arquivo gerado para a pasta Z**.
