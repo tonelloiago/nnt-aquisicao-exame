@@ -92,5 +92,7 @@ Se tudo estiver correto, prossiga para realização do exame, clicando em Inicia
 
 ## 8. Exame
 
+Pressione o botão Iniciar e realize o procedimento padrão para aquisição do exame:
+
 ![Scout](../../assets/tomografia/iniciar.png)
 
