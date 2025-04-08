@@ -62,7 +62,6 @@ Após realizar o reset, posicione o paciente corretamente no aparelho.
 Ajuste os lasers de referência para que fiquem alinhados conforme mostrado na figura abaixo:
 ![Posicionamento](../../assets/tomografia/posicionamento.png)
 
-
 ### Orientações por região:
 
 #### ▪️ Arcada Superior
