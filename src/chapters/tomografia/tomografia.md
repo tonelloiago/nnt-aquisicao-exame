@@ -16,23 +16,23 @@ Em seguida, selecione o exame desejado:
 
 ---
 
-## 3. Escolha da anatomia
+## 3. Escolha da região anatômica
 
-Agora, selecione a anatomia a ser utilizada. O sistema disponibiliza duas opções:
+Agora, selecione a **região anatômica** a ser utilizada. O sistema disponibiliza duas opções:
 
-### 🔹 Anatomia "Free"
+### 🔹 Região anatômica "Free"
 
-Na anatomia **"Free"**, é possível definir manualmente a região onde o exame será realizado. O **"FOV"**(campo de visão) pode ser definido nos botões **"-"** e **"+"**, sendo 4x4 o menor valor possível, como mostrado na figura abaixo:
+Na **região anatômica "Free"**, é possível definir manualmente a área onde o exame será realizado. O **FOV** (campo de visão) pode ser ajustado pelos botões **"-"** e **"+"**, sendo 4x4 o menor valor possível, como mostrado na figura abaixo:
 
-![Selecionar tomografia - Free](../../assets/tomografia/free.png)
+![Selecionar tomografia - Free](../../../assets/free.png)
 
 ---
 
-### 🔹 Anatomia "Simplified"
+### 🔹 Região anatômica "Simplified"
 
-Na anatomia **"Simplified"**, é possível escolher regiões pré-definidas para a realização do exame. O **"FOV"**(campo de visão) pode ser definido nos botões **"-"** e **"+"**, sendo 4x4 o menor valor possível, como mostrado na figura abaixo:
+Na **região anatômica "Simplified"**, é possível escolher áreas pré-definidas para a realização do exame. O **FOV** (campo de visão) também pode ser ajustado pelos botões **"-"** e **"+"**, com o valor mínimo sendo 4x4, conforme mostrado na imagem abaixo:
 
-![Selecionar tomografia - Específica](../../assets/tomografia/especifico.png)
+![Selecionar tomografia - Específica](../../../assets/especifico.png)
 
 ---
 
