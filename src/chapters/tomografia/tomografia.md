@@ -24,7 +24,7 @@ Agora, selecione a **região anatômica** a ser utilizada. O sistema disponibili
 
 Na **região anatômica "Free"**, é possível definir manualmente a área onde o exame será realizado. O **FOV** (campo de visão) pode ser ajustado pelos botões **"-"** e **"+"**, sendo 4x4 o menor valor possível, como mostrado na figura abaixo:
 
-![Selecionar tomografia - Free](../../../assets/free.png)
+![Selecionar tomografia - Free](../../assets/free.png)
 
 ---
 
@@ -32,7 +32,7 @@ Na **região anatômica "Free"**, é possível definir manualmente a área onde 
 
 Na **região anatômica "Simplified"**, é possível escolher áreas pré-definidas para a realização do exame. O **FOV** (campo de visão) também pode ser ajustado pelos botões **"-"** e **"+"**, com o valor mínimo sendo 4x4, conforme mostrado na imagem abaixo:
 
-![Selecionar tomografia - Específica](../../../assets/especifico.png)
+![Selecionar tomografia - Específica](../../assets/especifico.png)
 
 ---
 
