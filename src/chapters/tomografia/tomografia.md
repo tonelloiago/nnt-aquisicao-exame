@@ -1,128 +1,148 @@
-# Aquisição de Exames - Tomografia
+
+# Aquisição de Exames - Tomografia (Software NNT)
+
+---
 
 ## 1. Seleção da opção "3D"
 
-Para iniciar a aquisição de um exame de tomografia no software **NNT**, ao abrir o programa, selecione a opção representada pela imagem **"3D"**, como destacado na figura abaixo:
+Abra o programa **NNT** e selecione a opção **"3D"**, representada pela imagem abaixo:
 
 ![Selecionar tomografia](../../assets/tomografia/tomografia_1.png)
 
 ---
 
-## 2. Escolha do exame
+## 2. Escolha do Exame
 
-Em seguida, selecione o exame desejado:
+Selecione o exame desejado:
 
 ![Selecionar tomografia](../../assets/tomografia/tipo_tomo.png)
 
 ---
 
-## 3. Escolha da região anatômica
+## 3. Escolha da Região Anatômica
 
-Agora, selecione a **região anatômica** a ser utilizada. O sistema disponibiliza duas opções:
+Escolha entre as duas opções disponíveis:
 
-### 🔹 Região anatômica "Free"
+### Região anatômica "Free"
 
-Na **região anatômica "Free"**, é possível definir manualmente a área onde o exame será realizado. O **FOV** (campo de visão) pode ser ajustado pelos botões **"-"** e **"+"**, sendo 4x4 o menor valor possível, como mostrado na figura abaixo:
+- Permite definir manualmente a área onde o exame será realizado.
+- O **FOV** (campo de visão) pode ser ajustado com os botões **"-"** e **"+"**, sendo **4x4** o menor valor possível.
 
 ![Selecionar tomografia - Free](../../assets/tomografia/free.png)
 
 ---
 
-### 🔹 Região anatômica "Simplified"
+### Região anatômica "Simplified"
 
-Na **região anatômica "Simplified"**, é possível escolher áreas pré-definidas para a realização do exame. O **FOV** (campo de visão) também pode ser ajustado pelos botões **"-"** e **"+"**, com o valor mínimo sendo 4x4, conforme mostrado na imagem abaixo:
+- Possui áreas pré-definidas para a realização do exame.
+- O FOV também pode ser ajustado com os botões **"-"** e **"+"**, sendo **4x4** o valor mínimo.
 
 ![Selecionar tomografia - Específica](../../assets/tomografia/especifico.png)
 
 ---
 
-## 4. Configurações
+## 4. Configuração de Qualidade
 
-Selecione a opção **"Best Quality"**:
+Selecione a opção **"Best Quality"** para garantir a melhor definição da imagem.
+
 ![Selecionar qualidade](../../assets/tomografia/config.png)
 
 ---
 
-## 5. Reset do aparelho
+## 5. Reset do Aparelho
 
-Ao avançar, um aviso aparecerá informando que o apoio para o queixo será movido. Caso o paciente esteja posicionado no tomógrafo, retire-o do aparelho e clique em OK. Se não, apenas clique em OK.
-![Aviso - apoio para o queixo](../../assets/tomografia/aviso_apoio.png)
+1. Um aviso será exibido informando que o apoio para o queixo será movido.  
+   - Se o paciente estiver posicionado, remova-o antes de continuar.
+   - Clique em **OK**.
 
-A seguir, aparecerá um pedido de confirmação para iniciar o reset. Confirme clicando em Ok, conforme figura abaixo, e aguarde o aparelho executar o reset.
-![Reset](../../assets/tomografia/reset.png)
+   ![Aviso - apoio para o queixo](../../assets/tomografia/aviso_apoio.png)
 
+2. Confirme o reset clicando novamente em **OK** e aguarde a execução do procedimento.
 
-![Reset](../../assets/tomografia/reset_mov.png)
+   ![Reset](../../assets/tomografia/reset.png)  
+   ![Reset](../../assets/tomografia/reset_mov.png)
 
 ---
 
-## 6. Posicionamento do paciente
-Após realizar o reset, posicione o paciente corretamente no aparelho.
+## 6. Posicionamento do Paciente
 
-Ajuste os lasers de referência para que fiquem alinhados conforme mostrado na figura abaixo:
+Após o reset, posicione o paciente corretamente no aparelho.
+
+Alinhe os lasers de referência conforme a imagem abaixo:
+
 ![Posicionamento](../../assets/tomografia/posicionamento.png)
 
-### Orientações por região:
+### Orientações por região
 
-#### ▪️ Arcada Superior
+#### Maxila
 - Posicione o **bloco de mordida**.
-- Certifique-se de que o **plano de Frankfurt** esteja **paralelo ao solo**.
-- O **plano sagital mediano** deve estar **perpendicular ao solo**.
+- Deixe o **palato duro paralelo ao solo**.
+- O **plano mediano sagital (PMS)** deve estar **perpendicular ao solo**.
 
-#### ▪️ Arcada Inferior
-- A **base da mandíbula** deve estar **paralela ao solo**.
-- O **plano sagital mediano** deve estar **perpendicular ao solo**.
+#### Mandíbula
+- A base da mandíbula deve estar **paralela ao solo**.
+- O **PMS** também deve estar **perpendicular ao solo**.
 
 ---
 
 ## 7. Testes de Scout
 
-A seguir, realize os testes de Scout. O Scout é uma imagem inicial usada para planejar a tomografia, garantindo o posicionamento correto do paciente.
+Realize os testes de Scout, que são imagens iniciais usadas para o planejamento do exame.
 
-Execute o teste de Scout Lateral, conforme mostrado na imagem abaixo:
-![Scout](../../assets/tomografia/scout_lateral.png)
+1. Execute o **Scout Lateral**:
 
-Em seguida, clique em Próximo para realizar o Scout Póster-Anterior:
-![Scout](../../assets/tomografia/scout_lateral.png)
+   ![Scout Lateral](../../assets/tomografia/scout_lateral.png)
 
-  Caso necessite alterar o contraste par melhorar a visualização, mova os indicadores destacados na figura abaixo:
-![Scout](../../assets/tomografia/contraste.png)
+2. Clique em **Próximo** para realizar o **Scout Póster-Anterior**:
 
+   ![Scout PA](../../assets/tomografia/scout_pa.png)
 
-Se tudo estiver correto, prossiga para realização do exame, clicando em Iniciar.
+3. Se necessário, ajuste o contraste com os indicadores na imagem:
+
+   ![Contraste](../../assets/tomografia/contraste.png)
+
+4. Para centralizar a área de interesse:
+   - Pressione **Ctrl + botão esquerdo do mouse** sobre a linha pontilhada.
+
+Se tudo estiver correto, clique em **Iniciar** para dar prosseguimento ao exame.
 
 ---
 
-## 8. Exame
+## 8. Realização do Exame
 
-Pressione o botão **Iniciar** e realize o procedimento padrão para aquisição do exame.
+Clique no botão **Iniciar** para começar a aquisição do exame.
 
 ![Iniciar exame](../../assets/tomografia/iniciar.png)
 
-
 Após a aquisição, verifique se o exame foi realizado corretamente.  
-Se estiver tudo certo, prossiga para a etapa de exportação.
+Se estiver tudo certo, siga para a etapa de exportação.
 
 ---
 
 ## 9. Exportação da Tomografia
 
 1. No menu superior, clique em **Arquivo**.
-2. No menu lateral, selecione:  
-   **Gravação disco (CD/DVD) → Gravar disco c/ visualizador**.
-
+2. No menu lateral, selecione:
+   ```
+   Gravação disco (CD/DVD) → Gravar disco c/ visualizador
+   ```
    ![Salvar exame](../../assets/tomografia/salvar.png)
 
 3. Na janela que será aberta:
-   - Selecione o paciente na janela branca.
+   - Selecione o paciente na lista.
    - Clique em **Guardar arquivos**.
 
    ![Guardar arquivos](../../assets/tomografia/guarda_arquivo.png)
 
-4. Em seguida, será aberta uma nova janela:
+4. Na próxima janela:
    - Selecione **Desktop (Área de Trabalho)**.
    - Clique em **OK**.
 
    ![Selecionar Desktop](../../assets/tomografia/desktop.png)
 
-5. Por fim, vá até a Área de Trabalho do computador e **arraste o arquivo gerado para a pasta Z**.
+5. Por fim, vá até a Área de Trabalho e arraste o arquivo para:
+   ```
+   Radiografias HEO (Z) → @Tomografia
+   ```
+
+---
