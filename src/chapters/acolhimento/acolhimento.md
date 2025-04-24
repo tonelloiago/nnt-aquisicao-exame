@@ -16,7 +16,7 @@ Os passos a seguir devem ser seguidos para todos os pacientes, independentemente
 
 ---
 
-## 1. Preenchimento tabela de pacients
+## 1. Preenchimento tabela de pacientes
 
 - Criar um ID sequencial, com base no último ID utilizado para o tipo de exame correspondente (último ID + 1).
 - Preencher os seguintes campos obrigatórios:
