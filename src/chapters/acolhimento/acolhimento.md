@@ -3,20 +3,19 @@
 O processo de acolhimento varia conforme a **origem do paciente**, e cada origem utiliza um software específico:
 
 - **Paciente Interno** (triagem realizada no HEO): utilizar o sistema **AGHUSE**  
-  *  Acesso: [https://aghuse-externo.hcpa.edu.br](https://aghuse-externo.hcpa.edu.br)
+  *  Acesso: [https://aghuse.odonto.ufrgs.br](https://aghuse.odonto.ufrgs.br)
 
 - **Paciente Externo - Prefeitura de Porto Alegre**: utilizar o sistema **Gercon**  
   * Acesso: [https://gercon.procempa.com.br](https://gercon.procempa.com.br)
 
 - **Paciente Externo - Prefeitura de Viamão**: utilizar o sistema **GOVBR Saúde**  
-  * Acesso: *(link não informado)*
-
+  * Acesso: *[https://viamao.celk.com.br](https://viamao.celk.com.br)*
 
 Os passos a seguir devem ser seguidos para todos os pacientes, independentemente da origem:
 
 ---
 
-## 1. Preenchimento tabela de pacientes
+## 1. Preenchimento tabela **Planilha de Exames 2025**
 
 - Criar um ID sequencial, com base no último ID utilizado para o tipo de exame correspondente (último ID + 1).
 - Preencher os seguintes campos obrigatórios:
@@ -28,7 +27,6 @@ Os passos a seguir devem ser seguidos para todos os pacientes, independentemente
 ---
 
 ## 2. Preenchimento no software NNT
-
 
 A seguir estão as orientações para preenchimento da ficha do paciente no software NNT.
 
