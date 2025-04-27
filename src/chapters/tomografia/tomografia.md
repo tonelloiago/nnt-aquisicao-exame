@@ -39,6 +39,90 @@ Escolha entre as duas opções disponíveis:
 
 ![Selecionar tomografia - Específica](../../assets/tomografia/especifico.png)
 
+
+### 3.1 Variações de FOV
+
+<details>
+  <summary>Clique para visualizar as variações do FOV</summary>
+   
+  ### Dentição
+
+  - **Dent (Geral):**  
+    ![](../../assets/fov/dent.png)
+
+  - **Dent 4x4:**  
+    ![Dent 4x4](../../assets/fov/dent_4x4.png)
+
+  - **Dent 6x6:**  
+    ![](../../assets/fov/dent_6x6.png)
+
+  - **Dent 8x6:**  
+    ![](../../assets/fov/dent_8x6.png)
+
+  - **Dent 8x8:**  
+    ![](../../assets/fov/dent_8x8.png)
+
+  - **Dent 10x6:**  
+    ![](../../assets/fov/dent_10x6.png)
+
+  - **Dent 10x8:**  
+    ![](../../assets/fov/dent_10x8.png)
+
+  - **Dent 10x10:**  
+    ![](../../assets/fov/dent_10x10.png)
+
+  - **Dent 13x8:**  
+    ![](../../assets/fov/dent_13x8.png)
+
+  - **Dent 13x10:**  
+    ![](../../assets/fov/dent_13x10.png)
+
+  ---
+
+  ### Maxilar
+
+  - **Maxilo (Geral):**  
+    ![](../../assets/fov/maxilo.png)
+
+  - **Maxilo 13x10:**  
+    ![](../../assets/fov/maxilo_13x10.png)
+
+  - **Maxilo 13x14:**  
+    ![](../../assets/fov/maxilo_13x14.png)
+
+  - **Maxilo 13x16:**  
+    ![](../../assets/fov/maxilo_13x16.png)
+
+  - **Maxilo 16x10:**  
+    ![](../../assets/fov/maxilo_16x10.png)
+
+  - **Maxilo 16x18:**  
+    ![](../../assets/fov/maxilo_16x18.png)
+
+  ---
+
+  ### Articulação Temporomandibular (TMJ)
+
+  - **TMJ (Geral):**  
+    ![](../../assets/fov/tmj.png)
+
+  - **TMJ 4x4:**  
+    ![](../../assets/fov/tmj_4x4.png)
+
+  - **TMJ 6x6:**  
+    ![](../../assets/fov/tmj_6x6.png)
+
+  - **TMJ 7x6:**  
+    ![](../../assets/fov/tmj_7x6.png)
+
+  - **TMJ 8x8:**  
+    ![](../../assets/fov/tmj_8x8.png)
+
+  - **TMJ 15x6:**  
+    ![](../../assets/fov/tmj_15x6.png)
+
+</details>
+
 ---
 
 ## 4. Configuração de Qualidade
