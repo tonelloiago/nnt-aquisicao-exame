@@ -15,13 +15,26 @@ Abra o programa **NNT** e selecione a opção **"3D"**, representada pela imagem
 
 Selecione o exame desejado:
 
-![Selecionar tomografia](../../assets/tomografia/tipo_tomo.png)
+### Dentição
+
+- **Selecionar DENT:**  
+  ![](../../assets/fov/dent.png)
+
+### Maxilar
+
+- **Selecionar MAXILLO:**  
+  ![](../../assets/fov/maxilo.png)
+
+### Articulação Temporomandibular (TMJ)
+- **Selecionar TMJ:**  
+  ![](../../assets/fov/tmj.png)
+
 
 ---
 
 ## 3. Escolha da Região Anatômica
 
-Escolha entre as duas opções disponíveis:
+Agora, selecione a região anatômica a ser utilizada. O sistema disponibiliza duas opções:
 
 ### Região anatômica "Free"
 
@@ -46,9 +59,6 @@ Escolha entre as duas opções disponíveis:
   <summary>Clique para visualizar as variações do FOV</summary>
    
   ### Dentição
-
-  - **Dent (Geral):**  
-    ![](../../assets/fov/dent.png)
 
   - **Dent 4x4:**  
     ![Dent 4x4](../../assets/fov/dent_4x4.png)
@@ -81,9 +91,6 @@ Escolha entre as duas opções disponíveis:
 
   ### Maxilar
 
-  - **Maxilo (Geral):**  
-    ![](../../assets/fov/maxilo.png)
-
   - **Maxilo 13x10:**  
     ![](../../assets/fov/maxilo_13x10.png)
 
@@ -102,9 +109,6 @@ Escolha entre as duas opções disponíveis:
   ---
 
   ### Articulação Temporomandibular (TMJ)
-
-  - **TMJ (Geral):**  
-    ![](../../assets/fov/tmj.png)
 
   - **TMJ 4x4:**  
     ![](../../assets/fov/tmj_4x4.png)
@@ -165,7 +169,12 @@ Alinhe os lasers de referência conforme a imagem abaixo:
 
 #### Mandíbula
 - A base da mandíbula deve estar **paralela ao solo**.
-- O **PMS** também deve estar **perpendicular ao solo**.
+- O **plano mediano sagital PMS** também deve estar **perpendicular ao solo**.
+
+
+### Adequações conforme a solicitação clínica:
+Algumas situações exigem ajustes no procedimento padrão. As principais adequações necessárias conforme a solicitação clínica estão listadas na página abaixo:
+-  **[Adequações com especificidades da solicitação](../../chapters/especificidades/especificidades.md)**:
 
 ---
 

@@ -15,23 +15,17 @@ Os passos a seguir devem ser seguidos para todos os pacientes, independentemente
 
 ---
 
-## 1. Preenchimento tabela **Planilha de Exames 2025**
+## 1. Preenchimento tabela **Planilha de Exames**
 
-- Criar um ID sequencial, com base no último ID utilizado para o tipo de exame correspondente (último ID + 1).
-- Preencher os seguintes campos obrigatórios:
-  - ID
-  - Nome Completo
-  - Data de Nascimento
-  - Origem (Triagem, Prefeitura POA, Prefeitura Viamão)
+- No computador acolhimento do Serviço de Radiologia, crie um novo registro na tabela **Planilha de Exames**;
+- Crie um ID sequencial, com base no último ID utilizado para o tipo de exame correspondente (último ID + 1).
 
 ---
-
 ## 2. Preenchimento no software NNT
 
 A seguir estão as orientações para preenchimento da ficha do paciente no software NNT.
 
 ![Tela de preenchimento do paciente](../../assets/nnt_dados.png)
-
 
 ### Campos obrigatórios e como preenchê-los
 
@@ -55,19 +49,21 @@ Selecionar conforme a origem do paciente:
 
 #### Notas paciente
 Registrar os exames solicitados:
-- TC  
-- PAN  
-- Tele Frontal  
-- Tele Lateral  
-- Mão e Punho 
-- Outras técnicas extrabucais: *Waters, Lateral Oblíqua*  
+
+- **Tipo de exame:**
+  - TC  
+  - PAN  
+  - Tele Frontal  
+  - Tele Lateral  
+  - Mão e Punho 
+  - Outras técnicas extrabucais: *Waters, Lateral Oblíqua*  
 
 Registrar a justificativa:
 - **Justificativa:** incluir a razão do exame, se aplicável
 
 #### ID Paciente
-- Informar o número de identificação que consta na **planilha de registro Excel** do acolhimento do Serviço de Radiologia.
+- Informar o ID criado no passo 1, na tabela **Planilha de Exames** do acolhimento do Serviço de Radiologia.
 
 ---
 
-Após preencher todos os campos, clique em **OK** para salvar ou **Cancelar** para descartar as alterações.
+Após preencher todos os campos, clique em **OK** para salvar ou **Cancelar** para descartar as alterações. Prossiga para a [Aquisição de exames](./chapters/aquisicao/aquisicao.md).
