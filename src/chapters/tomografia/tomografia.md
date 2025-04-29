@@ -169,7 +169,7 @@ Alinhe os lasers de referência conforme a imagem abaixo:
 
 #### Mandíbula
 - A base da mandíbula deve estar **paralela ao solo**.
-- O **plano mediano sagital PMS** também deve estar **perpendicular ao solo**.
+- O **plano mediano sagital (PMS)** também deve estar **perpendicular ao solo**.
 
 
 ### Adequações conforme a solicitação clínica:
@@ -180,15 +180,21 @@ Algumas situações exigem ajustes no procedimento padrão. As principais adequa
 
 ## 7. Testes de Scout
 
-Realize os testes de Scout, que são imagens iniciais usadas para o planejamento do exame.
+Realize os testes de Scout, que são imagens iniciais usadas para o planejamento do exame. 
 
 1. Execute o **Scout Lateral**:
 
+- Acione o disparador e mantenha pressionado até o fim do sinal sonoro:
+
    ![Scout Lateral](../../assets/tomografia/scout_lateral.png)
 
-2. Clique em **Próximo** para realizar o **Scout Póster-Anterior**:
+2. Clique em **Próximo** para realizar o **Scout Póstero-Anterior**:
+
+- Acione o disparador e mantenha pressionado até o fim do sinal sonoro:
 
    ![Scout PA](../../assets/tomografia/scout_pa.png)
+
+
 
 3. Se necessário, ajuste o contraste com os indicadores na imagem:
 
@@ -203,9 +209,12 @@ Se tudo estiver correto, clique em **Iniciar** para dar prosseguimento ao exame.
 
 ## 8. Realização do Exame
 
-Clique no botão **Iniciar** para começar a aquisição do exame.
+1. Clique no botão **Iniciar** para começar a aquisição do exame:
 
 ![Iniciar exame](../../assets/tomografia/iniciar.png)
+
+2. Acione o disparador e mantenha pressionado até o fim do sinal sonoro:
+![Acionador](../../assets/tomografia/acionador.png)
 
 Após a aquisição, verifique se o exame foi realizado corretamente.  
 Se estiver tudo certo, siga para a etapa de exportação.
