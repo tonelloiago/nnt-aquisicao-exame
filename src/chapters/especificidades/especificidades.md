@@ -12,13 +12,13 @@ Algumas situações exigem ajustes no procedimento padrão. Abaixo, listamos as 
 
 ## Análise de Mucosa (Gengiva)
 
-- Realizar o afastamento dos lábios e bochechas com **espandex** para melhor visualização das estruturas moles.
+- Realizar o afastamento dos lábios e bochechas com **afastador labial (espandex) ou algodão** para melhor visualização das estruturas moles.
 
 ---
 
 ## Planejamento de Facetas
 
-- Realizar o afastamento dos lábios e bochechas utilizando **espandex ou algodão**, conforme o protocolo ou disponibilidade.
+- Realizar o afastamento dos lábios e bochechas utilizando **afastador labial (espandex) ou algodão**, conforme o protocolo ou disponibilidade.
 - Garantir que toda a área estética anterior esteja visível e livre de interferências.
 
 ---
