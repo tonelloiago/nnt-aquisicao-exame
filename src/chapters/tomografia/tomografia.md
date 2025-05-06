@@ -233,7 +233,7 @@ Realize os testes de Scout, que são imagens iniciais usadas para o planejamento
 
 
 
-3. Se necessário, ajuste o contraste com os indicadores na imagem:
+3. Se necessário clique duas vezes na imagem e ajuste o contraste arrastando os indicadores na imagem:
 
    ![Contraste](../../assets/tomografia/contraste.png)
 
@@ -281,7 +281,7 @@ Se estiver tudo certo, siga para a etapa de exportação.
 
 5. Por fim, vá até a Área de Trabalho e arraste o arquivo para:
    ```
-   Radiografias HEO (Z) → @Tomografia
-   ```
+   Radiografias HEO (Z) → @EXAMES_SERVIÇO_RADIOLOGIA -> @TOMOGRAFIAS
+   ``` 
 
 ---
