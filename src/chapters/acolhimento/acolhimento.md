@@ -15,9 +15,9 @@ Os passos a seguir devem ser seguidos para todos os pacientes, independentemente
 
 ---
 
-## 1. Preenchimento tabela **Planilha de Exames**
+## 1. Preenchimento tabela **Planilha de Exames** no Google Drive
 
-- No computador acolhimento do Serviço de Radiologia, crie um novo registro na tabela **Planilha de Exames**;
+- No computador acolhimento do Serviço de Radiologia, crie um novo registro na tabela **Planilha de Exames** no Google Drive;
 - Crie um ID sequencial, com base no último ID utilizado para o tipo de exame correspondente (último ID + 1).
 
 ---
