@@ -76,9 +76,9 @@ Agora, selecione a região anatômica a ser utilizada. O sistema disponibiliza d
 
 ### ATM
 
-- Sugestão: TMJ 7x6
+- Sugestão: TMJ 15x6
   
-![](../../assets/fov/15x6_atm.png)
+![](../../assets/fov/tmj_15x6_atm.png)
   
 ### Hemi-arcada ou região anterior
 
@@ -160,7 +160,7 @@ Agora, selecione a região anatômica a ser utilizada. O sistema disponibiliza d
     ![](../../assets/fov/tmj_8x8.png)
 
   - **TMJ 15x6:**  
-    ![](../../assets/fov/15x6_atm.png)
+    ![](../../assets/fov/tmj_15x6_atm.png)
 
 </details>
 
