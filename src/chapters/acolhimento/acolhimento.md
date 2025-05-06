@@ -59,7 +59,7 @@ Registrar os exames solicitados:
   - Outras técnicas extrabucais: *Waters, Lateral Oblíqua*  
 
 Registrar a justificativa:
-- **Justificativa:** incluir a razão do exame, se aplicável
+- **Justificativa:** incluir a razão do exame
 
 #### ID Paciente
 - Informar o ID criado no passo 1, na tabela **Planilha de Exames** do acolhimento do Serviço de Radiologia.
