@@ -201,12 +201,12 @@ Alinhe os lasers de referência conforme a imagem abaixo:
 
 #### Maxila
 - Posicione o **bloco de mordida**.
-- Deixe o **palato duro paralelo ao solo**.
+- Oriente o **palato duro paralelo ao solo**.
 - O **plano mediano sagital (PMS)** deve estar **perpendicular ao solo**.
 
 #### Mandíbula
 - A base da mandíbula deve estar **paralela ao solo**.
-- O **plano mediano sagital (PMS)** também deve estar **perpendicular ao solo**.
+- O **plano mediano sagital (PMS)** deve estar **perpendicular ao solo**.
 
 
 ### Adequações conforme a solicitação clínica:
