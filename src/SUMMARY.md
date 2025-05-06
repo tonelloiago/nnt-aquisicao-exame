@@ -5,6 +5,5 @@
 3. [Aquisição de exames](./chapters/aquisicao/aquisicao.md)
     - [Tomografia](./chapters/tomografia/tomografia.md)
     - [Panorâmica](https://bernardobellezaufrgs.github.io/protocoloOdontoUFRGS/#tomo-1)
-4. [Exportação de exames](./chapters/exportacao/exportacao.md)
-5. [Adequações com especificidades da solicitação](./chapters/especificidades/especificidades.md)
+4. [Adequações com especificidades da solicitação](./chapters/especificidades/especificidades.md)
    
