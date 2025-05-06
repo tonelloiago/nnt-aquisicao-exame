@@ -8,7 +8,7 @@ Após a realização do acolhimento do paciente:
    
 3. Chame o paciente e acompanhe-o até o tomógrafo.
    
-4. Prossiga para a excecução dos exames, que podem ser:
+4. Prossiga para a execução dos exames, que podem ser:
 
     - **[Panorâmica - 2D](https://bernardobellezaufrgs.github.io/protocoloOdontoUFRGS/#tomo-1)**
     - **[Tomografia - 3D](../tomografia/tomografia.md)**
