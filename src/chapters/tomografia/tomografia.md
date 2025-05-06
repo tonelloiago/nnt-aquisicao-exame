@@ -53,10 +53,47 @@ Agora, selecione a região anatômica a ser utilizada. O sistema disponibiliza d
 ![Selecionar tomografia - Específica](../../assets/tomografia/especifico.png)
 
 
-### 3.1 Variações de FOV
+### 3.1 Variações e sugestões de FOV para solicitações
+
+### Maxila ou Mandíbula
+
+- Sugestão: Dent 10x6
+  
+![](../../assets/fov/dent_10x6.png)
+
+
+### Maxila e Mandíbula
+
+- Sugestão: duas aquisições separadas do FOV Dent 10x6
+  
+![](../../assets/fov/dent_10x6.png)
+
+### Face completa
+
+- Sugestão: Maxilo 13x16
+  
+![](../../assets/fov/maxilo_13x16.png)
+
+### ATM
+
+- Sugestão: TMJ 7x6
+  
+![](../../assets/fov/tmj_7x6.png)
+  
+### Hemi-arcada ou região anterior
+
+- Sugestão: Dent 6x6
+  
+![](../../assets/fov/dent_6x6.png)
+
+### Localizada
+
+- Sugestão: Dent 4x4
+  
+![Dent 4x4](../../assets/fov/dent_4x4.png)
 
 <details>
-  <summary>Clique para visualizar as variações do FOV</summary>
+  <summary>Clique para visualizar todas as variações do FOV</summary>
    
   ### Dentição
 
