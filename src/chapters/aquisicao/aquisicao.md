@@ -10,6 +10,6 @@ Após a realização do acolhimento do paciente:
    
 4. Prossiga para a excecução dos exames, que podem ser:
 
-    - **[Panorâmica - 2D](../panoramica/panoramica.md)**
+    - **[Panorâmica - 2D](https://bernardobellezaufrgs.github.io/protocoloOdontoUFRGS/#tomo-1)**
     - **[Tomografia - 3D](../tomografia/tomografia.md)**
     - **Teleradiografia - CEPH**
