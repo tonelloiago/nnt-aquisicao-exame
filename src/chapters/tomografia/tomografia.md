@@ -45,7 +45,7 @@ Selecione o exame desejado:
   
 ![](../../assets/fov/dent_10x6.png)
 
-### 2.2 Maxilar
+### 2.2 Maxilar {#tomografia-maxilar}
 
 - **Selecionar MAXILLO:**
   
