@@ -21,6 +21,18 @@ Selecione o exame desejado:
   
 ![](../../assets/fov/dent.png)
 
+#### Localizada
+
+- Sugestão: Dent 4x4
+
+![](../../assets/fov/dent_4x4.png)
+
+#### Hemi-arcada ou região anterior
+
+- Sugestão: Dent 6x6
+  
+![](../../assets/fov/dent_6x6.png)
+
 #### Maxila ou Mandíbula
 
 - Sugestão: Dent 10x6
@@ -32,18 +44,6 @@ Selecione o exame desejado:
 - Sugestão: duas aquisições separadas do FOV Dent 10x6
   
 ![](../../assets/fov/dent_10x6.png)
-
-#### Hemi-arcada ou região anterior
-
-- Sugestão: Dent 6x6
-  
-![](../../assets/fov/dent_6x6.png)
-
-#### Localizada
-
-- Sugestão: Dent 4x4
-
-![](../../assets/fov/dent_4x4.png)
 
 ### 2.2 Maxilar
 
