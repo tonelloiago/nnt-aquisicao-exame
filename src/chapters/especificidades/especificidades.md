@@ -25,6 +25,12 @@ Algumas situações exigem ajustes no procedimento padrão. Abaixo, listamos as 
 
 ## Tomografia de Guia Cirúrgica
 
-- Posicionar o guia cirúrgico corretamente na cavidade bucal antes da aquisição.
-- Verificar o encaixe adequado e estabilidade do guia.
-- Confirmar que a tomografia abrange todas as áreas de interesse para o planejamento cirúrgico.
+### Parcial
+
+- Deve ser realizado o exame de toda a arcada onde será feito o implante com o afastador labial(espandex) e em desoclusão.
+
+### Total (Protocolo)
+
+- Tomografia do paciente + prótese: paciente deve realizar o exame com a prótese em boca e um registro de mordida em silicona para evitar que a prótese mude de posição durante o exame.
+
+- Tomografia da prótese: tomografia apenas da prótese com o uso de um anteparo para separar a prótese da mesa do tomógrafo.
