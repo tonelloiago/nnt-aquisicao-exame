@@ -47,6 +47,7 @@ class MDBookSidebarScrollbox extends HTMLElement {
                     </li>
                 </ol>
                 <a href="https://bernardobellezaufrgs.github.io/protocoloOdontoUFRGS/#tomo-1" target="_parent"><strong aria-hidden="true">3.2</strong> Panorâmica</a>
+                <a href="https://bernardobellezaufrgs.github.io/protocoloOdontoUFRGS/#tele-1" target="_parent"><strong aria-hidden="true">3.3</strong> Teleradiografia</a>
             </li>
         </ol>
     </li>
