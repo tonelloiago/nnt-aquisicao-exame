@@ -84,7 +84,7 @@ class MDBookSidebarScrollbox extends HTMLElement {
             }
         }
         // Track and set sidebar scroll position
-        this.addEventListener('click', function(e) {
+        this.addEventListener('click', function (e) {
             if (e.target.tagName === 'A') {
                 sessionStorage.setItem('sidebar-scroll', this.scrollTop);
             }
