@@ -23,6 +23,25 @@ class MDBookSidebarScrollbox extends HTMLElement {
                     </li>
                     <li class="chapter-item expanded ">
                         <a href="chapters/tomografia/tomografia.html#2-escolha-do-exame" target="_parent"><strong aria-hidden="true"> ▪️</strong> Escolha do exame</a>
+                                                <li class="chapter-item expanded menu">
+                            <a href="chapters/tomografia/tomografia.html#2-escolha-do-exame" target="_parent"><strong
+                                    aria-hidden="true"> ▪️</strong> Escolha do exame</a>
+                            <ol class="submenu">
+                                <li>
+                                <li class="chapter-item expanded ">
+                                    <a href="chapters/tomografia/tomografia.html#21-dentição" target="_parent"><strong
+                                            aria-hidden="true">▪️</strong> Dentição</a>
+                                </li>
+                                <li class="chapter-item expanded ">
+                                    <a href="chapters/tomografia/tomografia.html#tomografia-maxilar"
+                                        target="_parent"><strong aria-hidden="true">▪️</strong> Maxilar</a>
+                                </li>
+                                <li class="chapter-item expanded ">
+                                    <a href="chapters/tomografia/tomografia.html#23-articulação-temporomandibular-tmj"
+                                        target="_parent"><strong aria-hidden="true">▪️</strong> ATM</a>
+                                </li>
+                        </li>
+                    </ol>
                     </li>
                     <li class="chapter-item expanded ">
                         <a href="chapters/tomografia/tomografia.html#3-escolha-da-região-anatômica" target="_parent"><strong aria-hidden="true">▪️</strong> Escolha da região anatômica</a>
