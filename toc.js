@@ -24,8 +24,6 @@ class MDBookSidebarScrollbox extends HTMLElement {
                     <li class="chapter-item expanded ">
                         <a href="chapters/tomografia/tomografia.html#2-escolha-do-exame" target="_parent"><strong aria-hidden="true"> ▪️</strong> Escolha do exame</a>
                                                 <li class="chapter-item expanded menu">
-                            <a href="chapters/tomografia/tomografia.html#2-escolha-do-exame" target="_parent"><strong
-                                    aria-hidden="true"> ▪️</strong> Escolha do exame</a>
                             <ol class="submenu">
                                 <li>
                                 <li class="chapter-item expanded ">
