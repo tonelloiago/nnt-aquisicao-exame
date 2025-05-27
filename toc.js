@@ -50,7 +50,7 @@ class MDBookSidebarScrollbox extends HTMLElement {
                         <a href="chapters/tomografia/tomografia.html#4-configuração-de-qualidade" target="_parent"><strong aria-hidden="true">▪️</strong> Configuração de qualidade</a>
                     </li>
                     <li class="chapter-item expanded ">
-                        <a href="chapters/tomografia/tomografia.html#5-reset-do-aparelho" target="_parent"><strong aria-hidden="true">▪️</strong> Escolha do exame</a>
+                        <a href="chapters/tomografia/tomografia.html#5-reset-do-aparelho" target="_parent"><strong aria-hidden="true">▪️</strong> Reset do aparelho</a>
                     </li>
                     <li class="chapter-item expanded ">
                         <a href="chapters/tomografia/tomografia.html#6-posicionamento-do-paciente" target="_parent"><strong aria-hidden="true">▪️</strong> Posicionamento do paciente</a>
