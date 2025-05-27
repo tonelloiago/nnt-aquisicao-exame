@@ -277,8 +277,3 @@ sup {
 .result-no-output {
     font-style: italic;
 }
-
-.menu {
-    display: flex;
-    flex-direction: column;
-}
