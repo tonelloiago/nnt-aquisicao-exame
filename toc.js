@@ -69,6 +69,11 @@ class MDBookSidebarScrollbox extends HTMLElement {
         </ol>
     </li>
     <li class="chapter-item expanded "><a href="chapters/especificidades/especificidades.html" target="_parent"><strong aria-hidden="true">4.</strong> Adequações com especificidades da solicitação</a></li>
+    <div class="sidebar-logos">
+        <img src="assets/img/logo-ufrgs.png" alt="Logo UFRGS">
+        <img src="assets/img/logo-odontologia.png" alt="Logo Odontologia">
+        <img src="assets/img/logo-radiologia.png" alt="Logo Radiologia">
+    </div>
 </ol>
 `;
         // Set the current, active page, and reveal it if it's hidden
